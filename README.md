@@ -1,5 +1,5 @@
-# Liner-equations
-Algorithms of solving a liner system.
+# Linear-equations
+Algorithms of solving a linear system.
 
 1. 顺序高斯消元法
 2. 列主元高斯消元法
